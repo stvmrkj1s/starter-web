@@ -13,3 +13,7 @@ Blah blah blah
 ## Deployment
 
 Deployment deployment deployment
+
+### Copyright
+
+2021 SMJ
